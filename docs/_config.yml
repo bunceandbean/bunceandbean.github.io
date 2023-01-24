@@ -30,6 +30,7 @@ twitter_username: bunceandbean
 github_username:  bunceandbean
 domain: benlilley.dev 
 # Build settings
+markdown: kramdown
 remote_theme: heiswayi/thinkspace
 plugins:
   - jekyll-feed
