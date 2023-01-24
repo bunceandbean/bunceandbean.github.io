@@ -12,6 +12,7 @@ twitter_username  : "bunceandbean"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
+gem "github-pages", "~> 227", group: :jekyll_plugins
 
 # Build settings
 permalink   : 
