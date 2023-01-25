@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Ben"
-title_right   : "Lilley" # default: ""
+title_left    : ""
+title_right   : "Ben Lilley" # default: ""
 description   : ""
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://bunceandbean.github.io # site url
