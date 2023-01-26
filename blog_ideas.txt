@@ -1,3 +1,12 @@
 * Atom (rip)
-* FizzBuzz
+* Letterboxd/Academy Awards
 * OEIS Journey
+* 307 project
+* Fishers Enigma - a retrospective
+* SchedLink
+* UTA
+* myMalloc / other 252 projects
+* Collatz Conjecture
+* Competetive Programming
+* Advent of Code - a retrospective
+* Python - the worst first language
