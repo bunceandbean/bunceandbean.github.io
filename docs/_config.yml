@@ -7,7 +7,7 @@ url           : https://bunceandbean.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : 
+google_analytics  : G-T45DWK432D
 twitter_username  : "bunceandbean"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
