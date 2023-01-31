@@ -28,6 +28,6 @@ Code golfing refers to the practice (or competition) of programing a solution wi
 
 ```python
 def fb(u):
-  print(*(map(lambda x:(not x%3)*"Fizz"+(not x%5)*"Buzz"+(((not x%3)|(not x%5))^1)*f"{x}",range(1,u+1))))
+  print(*(map(lambda x:(x%3==0)*"Fizz"+(x%5==0)*"Buzz"+(((x%3==0)|(x%5==0))^1)*f"{x}",range(1,u+1))))
 ```
 #### Cheers!
