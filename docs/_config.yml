@@ -15,7 +15,7 @@ postshare_enabled : false
 gem "github-pages", "~> 227", group: :jekyll_plugins
 
 # Build settings
-permalink   : 
+permalink   : /:year/:title/ # subject to change
 markdown    : kramdown
 highlighter : rouge
 
