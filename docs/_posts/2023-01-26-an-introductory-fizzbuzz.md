@@ -22,5 +22,12 @@ def fizzbuzz(upper_bound):
       s = str(i)
     print(s)
 ```
+### For the Fans of Golf
 
+Code golfing refers to the practice (or competition) of programing a solution with the fewest characters (or lines) possible. I'm sure some competitive golfers would spit on this code, but for entertainment purposes here is my disgusting Python one-liner.
+
+```python
+def fb(u):
+  print(*(map(lambda x:(not x%3)*"Fizz"+(not x%5)*"Buzz"+(((not x%3)|(not x%5))^1)*f"{x}",range(1,u+1))))
+```
 #### Cheers!
