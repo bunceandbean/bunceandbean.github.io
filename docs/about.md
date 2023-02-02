@@ -11,7 +11,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 * Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science).
 * Assisting students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
 * Ran office hours and PSO sessions where I lead students in effectively learning the content.
-* Helped design and faciliate homework problems and extra study materials.
+* Helped design and facilitate homework problems and extra study materials.
 
 ## `Software Engineering Intern` @ Counterpart _05/2022 - 08/2022_
 
@@ -27,12 +27,10 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 * Built database schema and designs along with infrastructure for data sanitization and `SQL-based` database modules.
 * Designed backend technology using `PHP` and `JavaScript` to manage large-scale user and admin information
 
----
-
 ## Relevant Coursework
 
-| Class | Grade Recieved | 
-|-------|----------------|
+| Class | Grade Received | 
+|-------|:----------------:|
 | CS180: Programing in Java      |     A           |
 |    CS182: Foundations of Computer Science   |       A         |
 | CS240: Programming in C      |     A           |
@@ -41,9 +39,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 |  CS290: Competitive Programming I     |  A     |
 |   MA341: Introduction to Real Analysis    |    A   |
 
----
-
-## Achievments & Contributions
+## Achievements & Contributions
 
 ### Destination Imagination
 
@@ -54,7 +50,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 * Worked with a dedicated team for 10 years to solve and perform yearly scientific problems.
 * Over 7 state competition placements, with 4 global final placements.
 * Achieved two second placements at global finals. You can watch our second place performance in 2019 [here](/assets/videos/2019-gf.mp4).
-* Learned `Arduino` programming, `C++`, mechanical engineering, `RFID` technology, electronics engeering, and (most importantly) how to work with a team.
+* Learned `Arduino` programming, `C++`, mechanical engineering, `RFID` technology, electronics engineering, and (most importantly) how to work with a team.
 
 ### OEIS
 * Contributed the sequence [A360268](https://oeis.org/A360268/) to the Online Encyclopedia of Integer Sequences.
@@ -76,7 +72,5 @@ My skills include:
 * `HTML & CSS`
 * `PHP`
 * `Pandas`
-
----
 
 For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies) if you want an annoyingly long conversation. My social media accounts (including my GitHub) are linked below in the footer.
