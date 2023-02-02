@@ -55,6 +55,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 ### OEIS
 * Contributed the sequence [A360268](https://oeis.org/A360268/) to the Online Encyclopedia of Integer Sequences.
 * I hope to contribute and edit more sequences in the future. Support OEIS if possible, the project deserves the resources.
+* [Relevant XKCD](https://imgs.xkcd.com/comics/oeis_submissions.png)
 
 ---
 
