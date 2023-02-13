@@ -10,3 +10,5 @@
 * Competetive Programming
 * Advent of Code - a retrospective
 * Python - the worst first language
+* The Cathedral, the Bizaar, and the Bizzare - A project retrospective
+* Fast inverse square root

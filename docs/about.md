@@ -17,7 +17,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 
 * Built a custom dive scoring web application for the Indiana High School Athletic Association that is utilized by hundreds of diving judges and coaches in Indiana.
 * Leveraged existing identity servers and databases to create a standardized experience.
-* Learned and built software using the `Angular` and the `.NET` technology stack (C#, Azure, SQL).
+* Learned and built software using the `Angular` and the `.NET` technology stack (`C#`, `Azure`, `SQL`).
 * Worked with a team of engineers and interns where communication and `sprint deliverables` were a priority.
 
 ## `Full Stack Developer` @ SchedLink LLC _08/2019 - 05/2021_
@@ -44,7 +44,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 ### Destination Imagination
 
 <p align = "center">
-    <img src = "/assets/images/di-2019.jpeg" style="width:50%;height:auto;">
+    <img src = "./assets/images/di-2019.jpeg" style="width:50%;height:auto;">
 </p>
 
 * Worked with a dedicated team for 10 years to solve and perform yearly scientific problems.
@@ -52,10 +52,10 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 * Achieved two second placements at global finals. You can watch our second place performance in 2019 [here](/assets/videos/2019-gf.mp4).
 * Learned `Arduino` programming, `C++`, mechanical engineering, `RFID` technology, electronics engineering, and (most importantly) how to work with a team.
 
-### OEIS
+<!-- ### OEIS
 * Contributed the sequence [A360268](https://oeis.org/A360268/) to the Online Encyclopedia of Integer Sequences.
 * I hope to contribute and edit more sequences in the future. Support OEIS if possible, the project deserves the resources.
-* [Relevant XKCD](https://xkcd.com/2016/)
+* [Relevant XKCD](https://xkcd.com/2016/) -->
 
 ---
 
@@ -68,7 +68,7 @@ My skills include:
 * `Java`
 * `.NET`
 * `Unix`
-* `C/C++`
+* `C/C++/C#`
 * `SQL`
 * `HTML & CSS`
 * `PHP`
