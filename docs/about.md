@@ -44,7 +44,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 ### Destination Imagination
 
 <p align = "center">
-    <img src = "./assets/images/di-2019.jpeg" style="width:50%;height:auto;">
+    <img src = "../assets/images/di-2019.jpeg" style="width:50%;height:auto;">
 </p>
 
 * Worked with a dedicated team for 10 years to solve and perform yearly scientific problems.
