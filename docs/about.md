@@ -66,12 +66,13 @@ My skills include:
 * `JavaScript`
 * `Angular`
 * `Java`
+* `MongoDB`
 * `.NET`
 * `Unix`
 * `C/C++/C#`
 * `SQL`
 * `HTML & CSS`
 * `PHP`
-* `Pandas`
+* `AWS`
 
 For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies) if you want an annoyingly long conversation. My social media accounts (including my GitHub) are linked below in the footer.
