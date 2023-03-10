@@ -5,7 +5,6 @@
 * Fishers Enigma - a retrospective
 * SchedLink
 * UTA
-* myMalloc / other 252 projects
 * Collatz Conjecture
 * Competetive Programming
 * Advent of Code - a retrospective
