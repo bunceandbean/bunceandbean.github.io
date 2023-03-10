@@ -76,3 +76,9 @@ My skills include:
 * `AWS`
 
 For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies) if you want an annoyingly long conversation. My social media accounts (including my GitHub) are linked below in the footer.
+
+<div class = "container">
+    My most recently played song:
+    <br>
+    <div class = "container" style="left: 0; width: 50%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/0IVkP59yJ9GFF6B7IrvrxA?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+</div>
