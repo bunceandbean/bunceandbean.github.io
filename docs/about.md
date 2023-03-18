@@ -52,10 +52,10 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 * Achieved two second placements at global finals. You can watch our second place performance in 2019 [here](/assets/videos/2019-gf.mp4).
 * Learned `Arduino` programming, `C++`, mechanical engineering, `RFID` technology, electronics engineering, and (most importantly) how to work with a team.
 
-<!-- ### OEIS
+### OEIS
 * Contributed the sequence [A360268](https://oeis.org/A360268/) to the Online Encyclopedia of Integer Sequences.
 * I hope to contribute and edit more sequences in the future. Support OEIS if possible, the project deserves the resources.
-* [Relevant XKCD](https://xkcd.com/2016/) -->
+* [Relevant XKCD](https://xkcd.com/2016/)
 
 ---
 
