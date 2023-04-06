@@ -10,19 +10,19 @@ Here you can find all of the projects I have worked on listed in chronological o
 
 ### Ben's Treasury of Projects
 
-* <div> <b>benlilley.dev</b> &lt;<a href = "https://github.com/bunceandbean/bunceandbean.github.io">Repo</a> | <a href = "https://benlilley.dev"> Live</a>> </div>
+* <div> <strong><u>benlilley.dev</u></strong> &lt;<a href = "https://github.com/bunceandbean/bunceandbean.github.io">Repo</a> | <a href = "https://benlilley.dev"> Live</a>> </div>
 
     * *Hey, that's this!* Built with Jekyll and GitHub pages. Blog posts and pages are rendered markdown files.
     * Added a "most recently played song" to the bottom of my about page. It displays using a Spotify iframe and some hacky last.fm and PythonAnywhere API scripts.
     <br>
     
-* <div><b>BillMates</b></div>
+* <div><strong><u>BillMates</u></strong></div>
 
     * In progress project for CS307 - Software Engineering I. Working with a small scrum team to develop a bill splitting application. 
     * Utilizing `AWS Lambda` and `MongoDB` to build backend logic and processes.
     * Public repository will be available at the end of the Spring 2023 semester.
     <br>
-* <div> <b>Every-Frame: Twitter Bot</b> &lt;<a href = "https://github.com/bunceandbean/every-frame-twitter-bot">Repo</a> | <a href = "https://twitter.com/MrFoxFrames"> Live</a>> </div>
+* <div> <strong><u>Every-Frame: Twitter Bot</u></strong> &lt;<a href = "https://github.com/bunceandbean/every-frame-twitter-bot">Repo</a> | <a href = "https://twitter.com/MrFoxFrames"> Live</a>> </div>
 
     * A Twitter bot to post every frame of a given .mp4 file. Written in `Python` with the Tweepy and OpenCV libraries.
     * Live version (linked above) ran from October to November of 2022 and showed every frame of Fantastic Mr. Fox.
