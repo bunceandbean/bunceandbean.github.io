@@ -27,7 +27,7 @@ Here you can find all of the projects I have worked on listed in chronological o
     * A Twitter bot to post every frame of a given .mp4 file. Written in `Python` with the Tweepy and OpenCV libraries.
     * Live version (linked above) ran from October to November of 2022 and showed every frame of Fantastic Mr. Fox.
     <br>
-* <div> <b>Advent of Code</b> &lt;<a href = "https://github.com/bunceandbean/advent-of-code">Repo</a>> </div>
+* <div> <strong>Advent of Code</strong> &lt;<a href = "https://github.com/bunceandbean/advent-of-code">Repo</a>> </div>
 
     * A repository full of my Advent of Code solutions. Have been n yearly participant since 2020.
     * One of these days I'll get every star... maybe when I graduate and no longer have homework.
