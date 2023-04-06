@@ -31,3 +31,10 @@ Here you can find all of the projects I have worked on listed in chronological o
 
     * A repository full of my Advent of Code solutions. Have been n yearly participant since 2020.
     * One of these days I'll get every star... maybe when I graduate and no longer have homework.
+    <br>
+
+* <div> <strong><u>Fishers Enigma</u></strong> &lt;<a href = "https://github.com/bunceandbean/FishersEnigma">Repo</a>> </div>
+
+    * A yearly puzzle game (ARG) created for my friends during high school. Unfortunately the live version no longer exists.
+    * Written in pure `JavaScript`, `PHP`, and `HTML/CSS`. The website hosted a scoreboard and a place for teams to submit their answer to each "stage".
+    * Puzzles included cryptography, stenography, riddles, scavenger hunts, and even deciphering radio broadcasts.
