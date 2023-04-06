@@ -38,3 +38,15 @@ Here you can find all of the projects I have worked on listed in chronological o
     * A yearly puzzle game (ARG) created for my friends during high school. Unfortunately the live version no longer exists.
     * Written in pure `JavaScript`, `PHP`, and `HTML/CSS`. The website hosted a scoreboard and a place for teams to submit their answer to each "stage".
     * Puzzles included cryptography, stenography, riddles, scavenger hunts, and even deciphering radio broadcasts.
+    <br>
+* <div> <strong><u>SchedLink</u></strong> &lt;<a href = "https://schedlink.com">Link</a>></div>
+
+    * A web-based scheduling application for Fishers High School students. Made with a team of developers from scratch. It was my first experience with "real" software development!
+    * Utilized `PHP`, `JavaScript`, and `SQL` to manage backend processes for students.
+    * Helped design architecture, styling, and internal applications.
+    <br>
+
+* <div> <strong><u>Organic Portfolio</u></strong> &lt;<a href = "https://github.com/bunceandbean/organic-portfolio">Repo </a><span style = "font-size: 80%">|</span> <a href = "https://benlilley.dev/organic-portfolio"> Live</a>> </div>
+
+    * An old project I did for my organic chemistry class. It contains some information regarding basic organic compounds.
+    * Written in purely (terrible) `HTML/CSS`. We all have to start somewhere.
