@@ -29,7 +29,7 @@ Here you can find all of the projects I have worked on listed in chronological o
     <br>
 * <div> <strong><u>Advent of Code</u></strong> &lt;<a href = "https://github.com/bunceandbean/advent-of-code">Repo</a>> </div>
 
-    * A repository full of my Advent of Code solutions. Have been n yearly participant since 2020.
+    * A repository full of my Advent of Code solutions. Have been a yearly participant since 2020.
     * One of these days I'll get every star... maybe when I graduate and no longer have homework.
     <br>
 
