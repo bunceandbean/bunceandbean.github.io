@@ -16,11 +16,10 @@ Here you can find all of the projects I have worked on listed in chronological o
     * Added a "most recently played song" to the bottom of my about page. It displays using a Spotify iframe and some hacky last.fm and PythonAnywhere API scripts.
     <br>
     
-* <div><strong><u>BillMates</u></strong></div>
+* <div><strong><u>BillMates</u></strong> &lt;<a href = "https://github.com/BillMates-CS307/BillMates-backend">Repo</a>> </div>
 
-    * In progress project for CS307 - Software Engineering I. Working with a small scrum team to develop a bill splitting application. 
-    * Utilizing `AWS Lambda` and `MongoDB` to build backend logic and processes.
-    * Public repository will be available at the end of the Spring 2023 semester.
+    * Semester-long project for CS307 - Software Engineering I. Worked with a small scrum team to develop a bill splitting application. 
+    * Utilized `AWS Lambda` and `MongoDB` to build backend logic and processes.
     <br>
 * <div> <strong><u>Every-Frame: Twitter Bot</u></strong> &lt;<a href = "https://github.com/bunceandbean/every-frame-twitter-bot">Repo</a> <span style = "font-size: 80%">|</span> <a href = "https://twitter.com/MrFoxFrames"> Live</a>> </div>
 
