@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at Purdue University. My about section is mostly just a more stylized resume, or perhaps a less stylized LinkedIn profile. Feel free to [email me](mailto:benlilleydev@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
 
-## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - Present_
+## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - 05/2023_
 
 * Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science).
 * Assisting students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
@@ -34,9 +34,11 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 | CS180: Programing in Java      |     A           |
 |    CS182: Foundations of Computer Science   |       A         |
 | CS240: Programming in C      |     A           |
-| CS251: Data Structures and Algorithms      |        A         |
 |  CS250: Computer Architecture     |   A    |
+| CS251: Data Structures and Algorithms      |        A         |
+| CS252: Systems Programming | A | 
 |  CS290: Competitive Programming I     |  A     |
+| CS307: Software Engineering I |  A | 
 |   MA341: Introduction to Real Analysis    |    A   |
 
 ## Achievements & Contributions
