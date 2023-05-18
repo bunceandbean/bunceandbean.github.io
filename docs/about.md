@@ -6,11 +6,17 @@ permalink: /about/
 
 Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at Purdue University. My about section is mostly just a more stylized resume, or perhaps a less stylized LinkedIn profile. Feel free to [email me](mailto:benlilleydev@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
 
+## `Software Engineering Intern` @ Moser Consulting _05/2023 - Present_
+
+* Working with Moser's Application Services team to help develop Moser Labs, a software suite of internal tools for Moser employees and admins to utilize.
+* Currently building standardized application interfaces using `React`, the `PrimeReact` library, and and `TypeScript`.
+* Developing software in an `Agile`-based (`Scrum`) team where sprint deliverables are a priority.
+
 ## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - 05/2023_
 
 * Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science).
-* Assisting students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
-* Ran office hours and PSO sessions where I lead students in effectively learning the content.
+* Assisted students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
+* Ran office hours and PSO sessions where I led students in effectively learning the content.
 * Helped design and facilitate homework problems and extra study materials.
 
 ## `Software Engineering Intern` @ Counterpart _05/2022 - 08/2022_
