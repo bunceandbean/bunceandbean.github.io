@@ -10,6 +10,13 @@ Here you can find all of the projects I have worked on listed in chronological o
 
 ### Ben's Treasury of Projects
 
+* <div> <strong><u>surprisesongs.app</u></strong> &lt;<a href = "https://github.com/bunceandbean/eras-tour-surprise-songs">Repo</a> <span style = "font-size: 80%">|</span> <a href = "https://surprisesongs.app"> Live</a>> </div>
+
+    * An online web app to track the surprise songs played at Taylor Swift's The Eras Tour. 
+    * Created using `React`, `PrimeReact`, and `TypeScript`.
+    * Used by thousands of swifties from around the world.
+    <br>
+
 * <div> <strong><u>benlilley.dev</u></strong> &lt;<a href = "https://github.com/bunceandbean/bunceandbean.github.io">Repo</a> <span style = "font-size: 80%">|</span> <a href = "https://benlilley.dev"> Live</a>> </div>
 
     * *Hey, that's this!* Built with Jekyll and GitHub pages. Blog posts and pages are rendered markdown files.
