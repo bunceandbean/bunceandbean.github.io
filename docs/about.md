@@ -9,7 +9,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 ## `Software Engineering Intern` @ Moser Consulting _05/2023 - Present_
 
 * Working with Moser's Application Services team to help develop Moser Labs, a software suite of internal tools for Moser employees and admins to utilize.
-* Currently building standardized application interfaces using `React`, the `PrimeReact` library, and and `TypeScript`.
+* Currently building Moser Labs applications using `TypeScript` and `React`, the `PrimeReact` library, `Docker`,  `PostgreSQL`, and `GraphQL`.
 * Developing software in an `Agile`-based (`Scrum`) team where sprint deliverables are a priority.
 
 ## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - 05/2023_
@@ -72,18 +72,19 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 My skills include:
 * `Python`
 * `JavaScript`
-* `Angular`
+* `TypeScript`
+* `React`
 * `Java`
 * `MongoDB`
-* `.NET`
 * `Unix`
 * `C/C++/C#`
 * `SQL`
 * `HTML & CSS`
 * `PHP`
 * `AWS`
+* `Docker`
 
-For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies) if you want an annoyingly long conversation. My social media accounts (including my GitHub) are linked below in the footer.
+For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies)! My social media accounts (including my GitHub) are linked below in the footer.
 
 <div class = "container">
     My most recently played song:
