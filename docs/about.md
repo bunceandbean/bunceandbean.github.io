@@ -4,20 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at Purdue University. My about section is mostly just a more stylized resume, or perhaps a less stylized LinkedIn profile. Feel free to [email me](mailto:benlilleydev@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
+Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue University. My about section is mostly just a more stylized resume, or perhaps a less stylized LinkedIn profile. Feel free to [email me](mailto:benlilleydev@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
 
-## `Software Engineering Intern` @ Moser Consulting _05/2023 - Present_
+## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - Present_
 
-* Working with Moser's Application Services team to help develop Moser Labs, a software suite of internal tools for Moser employees and admins to utilize.
-* Currently building Moser Labs applications using `TypeScript` and `React`, the `PrimeReact` library, `Docker`,  `PostgreSQL`, and `GraphQL`.
-* Developing software in an `Agile`-based (`Scrum`) team where sprint deliverables are a priority.
-
-## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - 05/2023_
-
-* Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science).
+* Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science) for two semesters (Spring, Fall 2023).
 * Assisted students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
 * Ran office hours and PSO sessions where I led students in effectively learning the content.
 * Helped design and facilitate homework problems and extra study materials.
+
+## `Software Engineering Intern` @ Moser Consulting _05/2023 - 08/2023_
+
+* Worked with Moser's Application Services team to help develop Moser Labs, a software suite of internal tools for Moser employees and admins to utilize.
+* Built Moser Labs applications using `TypeScript` and `React`, the `PrimeReact` library, `Docker`,  `PostgreSQL`, and `GraphQL`.
+* Developed software in an `Agile`-based (`Scrum`) team where sprint deliverables were a priority.
 
 ## `Software Engineering Intern` @ Counterpart _05/2022 - 08/2022_
 
@@ -35,7 +35,7 @@ Hi! I'm Ben Lilley, an undergraduate mathematics and computer science student at
 
 ## Relevant Coursework
 
-| Class | Grade Received | 
+| Class | Letter Grade Received | 
 |-------|:----------------:|
 | CS180: Programing in Java      |     A           |
 |    CS182: Foundations of Computer Science   |       A         |
