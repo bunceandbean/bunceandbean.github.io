@@ -34,6 +34,7 @@ Here, we have a base case ($P(n_0)$), and our induction hypothesis (the implicat
 
 <p align = "center">
   <img src = "../../assets/images/sms-suit.gif">
+  <br>
   <em>Everybody, get in line!</em>
 </p>
 
@@ -60,6 +61,7 @@ Since $\frac{k+1}{2}$ is less than $k$ (and is also a positive integer), accordi
 
 <p align = "center">
   <img src = "../../assets/images/sms-lamp.gif">
+  <br>
   <em>Hi yo - you got light in your eyes!</em>
 </p>
 
@@ -67,14 +69,9 @@ While this proof may seem like a weird but interesting fact about integers, it a
 
 $$10 = 1\cdot 2^3 + 0\cdot 2^2 + 1\cdot 2^1 + 0\cdot 2^0 = 1010$$
 
-You could do this proof for any base you'd like! Base three, base four, hex, and even normal decimal numbers we use every day. That is why I call this proof: Making Flippy Floppy. If you ever did an introductory CS class in high school, you may have made those flip flop machines that count up in binary:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v83Uvg_ySK8?si=DVD_UYYIpJxmXg_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-Now that you made flippy floppy, I encourage you to listen along to the Talking Heads (live) song of the same name and feel a sense of pride for finishing a pretty great proof.
+You could do this proof for any base you'd like! Base three, base four, hex, and even normal decimal numbers we use every day. That is why I call this proof: Making Flippy Floppy. If you ever did an introductory CS class in high school, you may have made those <a href="https://www.youtube.com/watch?v=v83Uvg_ySK8">flip flop machines that count up in binary</a>. Now that you made flippy floppy, I encourage you to listen along to the Talking Heads (live) song of the same name and feel a sense of pride for finishing a pretty great proof.
 
 <br>
-<br>
-<br>
-
-<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/6Wvil8gMMUbozPd33pSrll?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+<div class = "container">
+    <div class = "container" style="left: 0; width: 75%; height: 152px; position: relative;"><iframe src="https://open.spotify.com/embed/track/6Wvil8gMMUbozPd33pSrll?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+</div>
