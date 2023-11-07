@@ -1,14 +1,11 @@
 * Atom (rip)
 * Letterboxd/Academy Awards
-* OEIS Journey
-* 307 project
+* OEIS Journey (Josephus)
 * Fishers Enigma - a retrospective
 * SchedLink
-* UTA
 * Collatz Conjecture
 * Competetive Programming
 * Advent of Code - a retrospective
-* Python - the worst first language
 * The Cathedral, the Bizaar, and the Bizzare - A project retrospective
 * Fast inverse square root
 * Notes in textbooks (pepper, etc)
