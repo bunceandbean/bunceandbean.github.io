@@ -1,13 +1,8 @@
 * Atom (rip)
-* Letterboxd/Academy Awards
 * OEIS Journey (Josephus)
-* Fishers Enigma - a retrospective
-* SchedLink
 * Collatz Conjecture
-* Competetive Programming
-* Advent of Code - a retrospective
 * The Cathedral, the Bizaar, and the Bizzare - A project retrospective
 * Fast inverse square root
 * Notes in textbooks (pepper, etc)
-* Library tour
-* Chess ELO
+* Library
+* AOC - Day 9 Poly

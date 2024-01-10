@@ -8,7 +8,7 @@ Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue Universi
 
 ## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - Present_
 
-* Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science) for two semesters (Spring, Fall 2023).
+* Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science) for three semesters (Spring & Fall 2023, Spring 2024).
 * Assisted students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
 * Ran office hours and PSO sessions where I led students in effectively learning the content.
 * Helped design and facilitate homework problems and extra study materials.
@@ -46,6 +46,7 @@ Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue Universi
 |  CS290: Competitive Programming I     |  A     |
 | CS307: Software Engineering I |  A | 
 |   MA341: Introduction to Real Analysis    |    A   |
+
 
 ## Achievements & Contributions
 
