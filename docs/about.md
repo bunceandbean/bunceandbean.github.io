@@ -33,21 +33,6 @@ Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue Universi
 * Built database schema and designs along with infrastructure for data sanitization and `SQL-based` database modules.
 * Designed backend technology using `PHP` and `JavaScript` to manage large-scale user and admin information
 
-## Relevant Coursework
-
-| Class | Letter Grade Received | 
-|-------|:----------------:|
-| CS180: Programing in Java      |     A           |
-|    CS182: Foundations of Computer Science   |       A         |
-| CS240: Programming in C      |     A           |
-|  CS250: Computer Architecture     |   A    |
-| CS251: Data Structures and Algorithms      |        A         |
-| CS252: Systems Programming | A | 
-|  CS290: Competitive Programming I     |  A     |
-| CS307: Software Engineering I |  A | 
-|   MA341: Introduction to Real Analysis    |    A   |
-
-
 ## Achievements & Contributions
 
 ### Destination Imagination
@@ -72,20 +57,20 @@ Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue Universi
 
 My skills include:
 * `Python`
+* `Rust`
 * `JavaScript`
 * `TypeScript`
-* `React`
 * `Java`
 * `MongoDB`
 * `Unix`
-* `C/C++/C#`
+* `C/C++`
 * `SQL`
 * `HTML & CSS`
 * `PHP`
-* `AWS`
-* `Docker`
+* `Haskell`
 
-For a more detailed look into my work experience, feel free to email me asking for my professional resume. Along with these more career-oriented experiences, I have a deep interest in film, literature, and music. Ask me about my large media collection (books, records, and movies)! My social media accounts (including my GitHub) are linked below in the footer.
+
+For a more detailed look into my work experience, feel free to email me asking for my professional resume. My social media accounts (including my GitHub) are linked below in the footer.
 
 <div class = "container">
     My most recently played song:
