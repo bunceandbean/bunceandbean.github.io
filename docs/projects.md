@@ -8,6 +8,18 @@ Here you can find all of the projects I have worked on listed in chronological o
 
 ### Project Archive
 
+* <div><strong><u>Wireminnow</u></strong> &lt;<a href = "https://github.com/bunceandbean/wireminnow">Repo</a>> </div>
+
+    * A lightweight network protocol analyzer written in C.
+    * Explores PCAP files and allows flexible data dumps depending on packet contents.
+    <br>
+
+* <div><strong><u>USC Compiler</u></strong> &lt;<a href = "https://github.com/bunceandbean/USC-Compiler">Repo</a>> </div>
+
+    * A USC (University Simple C) compiler made in C++ utilizing LLVM.
+    * Optimizes and compiles USC programs using syntactic and semantic analysis.
+    <br>
+
 * <div> <strong><u>surprisesongs.app</u></strong> &lt;<a href = "https://github.com/bunceandbean/eras-tour-surprise-songs">Repo</a> <span style = "font-size: 80%">|</span> <a href = "https://surprisesongs.app"> Live</a>> </div>
 
     * An online web app to track the surprise songs played at Taylor Swift's The Eras Tour. 
