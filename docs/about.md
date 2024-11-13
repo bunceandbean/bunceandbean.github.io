@@ -33,7 +33,7 @@ Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue Universi
 * Built database schema and designs along with infrastructure for data sanitization and `SQL-based` database modules.
 * Designed backend technology using `PHP` and `JavaScript` to manage large-scale user and admin information
 
-## Achievements & Contributions
+## Interesting Contributions
 
 ### Destination Imagination
 
