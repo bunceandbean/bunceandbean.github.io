@@ -6,9 +6,10 @@ permalink: /about/
 
 Hi! I'm Ben Lilley, an undergraduate computer science student at Purdue University. My about section is mostly just a more stylized resume, or perhaps a less stylized LinkedIn profile. Feel free to [email me](mailto:benlilleydev@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
 
-## `Undergraduate Teaching Assistant` @ Purdue University _01/2023 - Present_
+## `Head Undergraduate Teaching Assistant` @ Purdue University _01/2023 - Present_
 
-* Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science) for three semesters (Spring & Fall 2023, Spring 2024).
+* Head Undergraduate Teaching Assistant for CS 18200 (Foundations of Computer Science) for four semesters.
+* Directing teaching assistants and creating instructional material for CS 18200.
 * Assisted students in learning proofs, logic, set theory, algorithms, graph theory, and the theory of computation.
 * Ran office hours and PSO sessions where I led students in effectively learning the content.
 * Helped design and facilitate homework problems and extra study materials.

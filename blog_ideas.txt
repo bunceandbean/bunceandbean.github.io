@@ -5,4 +5,4 @@
 * Fast inverse square root
 * Notes in textbooks (pepper, etc)
 * Library
-* AOC - Day 9 Poly
+* Who shot mr burns?
